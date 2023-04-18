@@ -17,6 +17,7 @@ O objetivo desse jogo é você adivinhar qual o número secreto que o computador
 
 Concluído ✅
 <p> Você pode acessar o jogo e tentar acertar o número secreto aqui: <a href="https://miistrass.github.io/numero-secreto/">Jogar agora</p>
+<p>P.S.: Ele funciona melhor no Chrome, por conta do microfone :/
 
 ---
 
