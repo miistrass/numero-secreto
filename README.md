@@ -9,7 +9,7 @@
 
 ### Objetivo
 
-O objetivo desse jogo é você adivinhar qual o número secreto que o computador sorteou. Você pode chamar seus amigos para jogar com você! ❤
+O objetivo desse jogo é você adivinhar qual o número secreto que o computador sorteou, usando o comando de voz do navegador. Você pode chamar seus amigos para jogar com você! ❤
 
 ---
 
